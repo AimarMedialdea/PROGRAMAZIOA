@@ -23,8 +23,6 @@ public class SumProductMinMax3 {
         suma = numero1 + numero2 + numero3;
         multiplicacion = numero1 * numero2 * numero3;
         media = (numero1 + numero2 + numero3)/3;
-        minimo
-
 
         System.out.println("La suma es: " + suma);
         System.out.println("El producto es: " + multiplicacion);
